@@ -1,2 +1,2 @@
 # farmsys_liability
-farmsys_liability feature
+farmsys_liability module
